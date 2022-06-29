@@ -12,7 +12,7 @@
 ################################** Execution and Activation **################################
 	
 	**1. Place all files in the same path
-		java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:loader.jar -noverify -jar /burpsuite_pro_v2022.5.jar &
+		java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:loader.jar -noverify -jar burpsuite_pro_v2022.5.jar &
 	----------------------------------------------
 	**2. Use keygen.jar to generate the License key**
 		java -jar keygen.jar
